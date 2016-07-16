@@ -21,6 +21,4 @@ Happy Hacking.
 
 Also there's one more easier way to hack this game, but why don't you try it yourself :wink:
 
-**Author** : [**Ironmaniiith**](https://github.com/ironmaniiith)
-
 &lt;The above script is free to use, anyone can use it according to his/her own wish. Enjoy...&gt;
