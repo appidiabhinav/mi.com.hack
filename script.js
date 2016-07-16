@@ -1,7 +1,5 @@
 /**
-  Author: ironmaniiith
-  Date Created: 16 July 2016
-  Website: https://github.com/ironmaniiith
+
   Description: Script for winning the mi.com Pair 2 win (http://www.mi.com/in/events/2ndanniversary/playgame/)
   				Play here: http://mobile.mi.com/in/events/2ndanniversary/playgame/level/
   */
@@ -92,7 +90,7 @@ function startGame() {
 /** Let's rock and roll */
 function listenerDevOps(e) {
 	var time = 1200; /* Time gap before first paired card opening */
-	(selector === 1) ? i++ : time = 700; /* Time gap before second paired card opening */
+	(selector === 1) ? i++ : time = 50; /* Time gap before second paired card opening */
 	selector ^= 1;
 	var pair = pairs[i];
 	if (pair) {
